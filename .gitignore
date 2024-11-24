@@ -1,0 +1,16 @@
+# Environment variables
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment directories
+venv/
+myenv/
+
+# IDE configurations (optional)
+.vscode/
+
+# Other temporary or log files
+*.log
