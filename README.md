@@ -10,7 +10,6 @@ A friendly virtual assistant that provides real-time weather information and gen
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [License](#license)
 
