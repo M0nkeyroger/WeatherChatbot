@@ -103,7 +103,8 @@ A friendly virtual assistant that provides real-time weather information and gen
 
 ## 📸 Screenshots
 
-![Screenshot 2024-11-24 065805](https://github.com/user-attachments/assets/7a3bd825-73c6-40da-9d78-de6c00c44bcc)
+
+![Screenshot 2024-11-24 065805](https://github.com/user-attachments/assets/ba3f3945-1937-4666-a9e0-0c167c4c66c5)
 *Figure 1: The chatbot interface providing weather information.*
 
 ## 🗄️ Database Setup (MongoDB Atlas)
