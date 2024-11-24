@@ -93,13 +93,9 @@ A friendly virtual assistant that provides real-time weather information and gen
 3. **Interact with the Chatbot**
    - Ask about the weather in a specific city:
      - *"¿Cuál es el clima en Madrid?"*
-   - Change location by typing:
-     - *"Cambiar ubicación"*
    - Ask for the current time in a city:
      - *"¿Qué hora es en Tokio?"*
    - Engage in general conversation.
-
-## 📁 Project Structure
 
 ## 📸 Screenshots
 
